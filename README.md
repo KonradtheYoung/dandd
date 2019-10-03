@@ -1,4 +1,4 @@
-h1 {
+<!-- h1 {
   border-style: solid;
   border-color: black;
   border-width: 5px;
@@ -22,7 +22,7 @@ p {
   font-family: Verdana;
   text-align: left;
 
-}
+} -->
 # dandd
  <h1> A New Campaign </h1>
 <!--This is my starting point for my client website. My brother's roommate is currently planning the details of the campaign, which I plan to partake in, and will manipulate my reluctant brother into playing as well. He is using the 5th Edition manual for the game parameters.-->
