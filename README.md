@@ -24,7 +24,7 @@ p {
 
 } -->
 # dandd
- <h1> This file is my Rough Draft. See Html files attached. </h1>
+ <h1> This file is my Rough Draft. The template I ended up choosing was not in static form, as all the links went to different parts of the same page, so I started out with all my base information in one place and worked backwards from there with additional pages. See Html files attached. </h1>
 <!--This is my starting point for my client website. My brother's roommate is currently planning the details of the campaign, which I plan to partake in, and will manipulate my reluctant brother into playing as well. He is using the 5th Edition manual for the game parameters.-->
 <p> Hello reader, welcome to my website. For my website project, I am making a client site for my brother's roommate Adam. He has an open mind for turn-based role-playing games (RPG's). He was recently given the Dungeons and Dragons (D&D) 5th Edition Manual as a gift, and has since asked me to join in his first campaign. Although I am not a D&D veteran, I have some experience.</p>
 <h2> What is D&D? </h2>
